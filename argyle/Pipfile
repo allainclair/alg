@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# Sensitive data like username and password are suitable to be in a dotenv file.
+python-dotenv = "*"
+selenium = "*"
+pydantic = "*"
+
+[dev-packages]
+pytest = "*"
+
+[requires]
+python_version = "3.9"

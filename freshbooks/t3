@@ -1,0 +1,5 @@
+-- write your code in SQLite 3.11.0
+SELECT name
+FROM phones, calls
+WHERE  (caller = phone_number) or (callee = phone_number) GROUP BY name
+HAVING sum(duration) >= 10

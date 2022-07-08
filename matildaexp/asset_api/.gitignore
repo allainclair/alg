@@ -1,0 +1,3 @@
+.pdm.toml
+.pytest_cache
+__pypackages__

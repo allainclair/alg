@@ -1,0 +1,972 @@
+{
+  "0": {
+    "name": "Grizzly Peak",
+    "phone": "",
+    "zip_code": "94704",
+    "address": {
+      "streetAddress": "Old Fish Ranch Rd",
+      "addressLocality": "Berkeley",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94704"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "1": {
+    "name": "Artist & Craftsman Supply",
+    "phone": "(510) 704-4040",
+    "zip_code": "94704",
+    "address": {
+      "streetAddress": "2573 Shattuck Ave",
+      "addressLocality": "Berkeley",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94704"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "2": {
+    "name": "Mizuki Auto",
+    "phone": "(510) 548-8215",
+    "zip_code": "94704",
+    "address": {
+      "streetAddress": "1900 Martin Luther King Jr Way",
+      "addressLocality": "Berkeley",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94704"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "3": {
+    "name": "Whitney Moses, CMT",
+    "phone": "(510) 459-5647",
+    "zip_code": "94609",
+    "address": {
+      "streetAddress": "706 Brockhurst St",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94609"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "4": {
+    "name": "Patient ID Center",
+    "phone": "(510) 832-5346",
+    "zip_code": "94612",
+    "address": {
+      "streetAddress": "1840 Embarcadero",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94606"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "5": {
+    "name": "Magnetic Imaging Affiliates",
+    "phone": "(510) 204-2744",
+    "zip_code": "94609",
+    "address": {
+      "streetAddress": "5730 Telegraph Ave",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94609"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "6": {
+    "name": "Potliquor",
+    "phone": "(510) 982-6672",
+    "zip_code": "94114",
+    "address": {
+      "streetAddress": "2701 Eighth St\\nUnit 105",
+      "addressLocality": "Berkeley",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94710"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "7": {
+    "name": "Lazarus Tax Services",
+    "phone": "",
+    "zip_code": "94608",
+    "address": {
+      "streetAddress": "890 53rd Street",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94608"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "8": {
+    "name": "Fourn\u00e9e Bakery",
+    "phone": "(510) 549-9434",
+    "zip_code": "94705",
+    "address": {
+      "streetAddress": "2912 Domingo Ave",
+      "addressLocality": "Berkeley",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94705"
+    },
+    "free_wifi": false,
+    "alcohol": false
+  },
+  "9": {
+    "name": "Hapuku Fish Shop",
+    "phone": "(510) 250-6007",
+    "zip_code": "94618",
+    "address": {
+      "streetAddress": "5655 College Ave",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94618"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "10": {
+    "name": "The Yellow Emperor Community Acupuncture Clinic",
+    "phone": "(510) 227-4028",
+    "zip_code": "94705",
+    "address": {
+      "streetAddress": "3111 Shattuck Ave",
+      "addressLocality": "Berkeley",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94705"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "11": {
+    "name": "EvenFlow Plumbing Co.",
+    "phone": "(510) 562-1363",
+    "zip_code": "94610",
+    "address": {
+      "streetAddress": "",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94621"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "12": {
+    "name": "Mancheno Insurance",
+    "phone": "(510) 215-7277",
+    "zip_code": "94611",
+    "address": {
+      "streetAddress": "1955 Mountain Blvd\\nSte 105",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94611"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "13": {
+    "name": "The Laundromat",
+    "phone": "(510) 355-6094",
+    "zip_code": "94706",
+    "address": {
+      "streetAddress": "1408 Solano Ave",
+      "addressLocality": "Albany",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94706"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "14": {
+    "name": "Centro Legal de La Raza",
+    "phone": "(510) 437-1554",
+    "zip_code": "94601",
+    "address": {
+      "streetAddress": "3400 E 12th St",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94601"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "15": {
+    "name": "Piedmont Post",
+    "phone": "(510) 652-2051",
+    "zip_code": "94611",
+    "address": {
+      "streetAddress": "1139 Oakland Ave",
+      "addressLocality": "Piedmont",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94611"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "16": {
+    "name": "Oaklandish Film Festival",
+    "phone": "",
+    "zip_code": "94620",
+    "address": {
+      "streetAddress": "3200 Grand Ave",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94610"
+    },
+    "free_wifi": false,
+    "alcohol": null
+  },
+  "17": {
+    "name": "Lien Luong, MD",
+    "phone": "",
+    "zip_code": "94705",
+    "address": {
+      "streetAddress": "1520 Stockton St",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94133"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "18": {
+    "name": "Montclair Branch Library",
+    "phone": "(510) 482-7810",
+    "zip_code": "94611",
+    "address": {
+      "streetAddress": "1687 Mountain Blvd",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94611"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "19": {
+    "name": "New Life Community Church",
+    "phone": "(510) 550-3858",
+    "zip_code": "94611",
+    "address": {
+      "streetAddress": "960 10th St",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94607"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "20": {
+    "name": "Avia Travel",
+    "phone": "(800) 950-2842",
+    "zip_code": "94710",
+    "address": {
+      "streetAddress": "",
+      "addressLocality": "Berkeley",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94710"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "21": {
+    "name": "May's Travel",
+    "phone": "(510) 832-7128",
+    "zip_code": "94607",
+    "address": {
+      "streetAddress": "325 10th St\\nSte 205",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94607"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "22": {
+    "name": "Off The Grid: The Lot",
+    "phone": "(415) 339-5888",
+    "zip_code": "94607",
+    "address": null,
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "23": {
+    "name": "Royal Auto Repair",
+    "phone": "(510) 522-2667",
+    "zip_code": "94501",
+    "address": {
+      "streetAddress": "1127 Lincoln Ave",
+      "addressLocality": "Alameda",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94501"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "24": {
+    "name": "Skin by Maisha",
+    "phone": "(510) 336-9860",
+    "zip_code": "94619",
+    "address": {
+      "streetAddress": "3623 Macarthur Blvd\\nSte D",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94619"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "25": {
+    "name": "Oaksterdam University",
+    "phone": "(510) 251-1544",
+    "zip_code": "94612",
+    "address": {
+      "streetAddress": "1734 Telegraph Ave",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94612"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "26": {
+    "name": "Silver Moon Kids",
+    "phone": "(510) 835-2229",
+    "zip_code": "94610",
+    "address": {
+      "streetAddress": "3233 Lakeshore Ave",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94610"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "27": {
+    "name": "Mack's Gardening Supplies",
+    "phone": "(510) 351-3900",
+    "zip_code": "94577",
+    "address": {
+      "streetAddress": "2089 E 14th St",
+      "addressLocality": "San Leandro",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94577"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "28": {
+    "name": "Symmetry Health Center",
+    "phone": "(510) 769-0125",
+    "zip_code": "94501",
+    "address": {
+      "streetAddress": "1708 Park St\\nSte 130",
+      "addressLocality": "Alameda",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94501"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "29": {
+    "name": "US Airport Cab",
+    "phone": "(510) 302-5000",
+    "zip_code": "94606",
+    "address": {
+      "streetAddress": "",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94606"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "30": {
+    "name": "Washboard V",
+    "phone": "(925) 285-8954",
+    "zip_code": "94501",
+    "address": {
+      "streetAddress": "1198 Park St",
+      "addressLocality": "Alameda",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94501"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "31": {
+    "name": "Archer Bicycle",
+    "phone": "(510) 681-1141",
+    "zip_code": "94612",
+    "address": {
+      "streetAddress": "431 13th St",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94612"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "32": {
+    "name": "Swell Bar",
+    "phone": "(510) 522-6263",
+    "zip_code": "94501",
+    "address": {
+      "streetAddress": "1539 Lincoln Ave",
+      "addressLocality": "Alameda",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94501"
+    },
+    "free_wifi": true,
+    "alcohol": true
+  },
+  "33": {
+    "name": "Law Office of Jeff D. Hoffman",
+    "phone": "(510) 451-0290",
+    "zip_code": "94607",
+    "address": {
+      "streetAddress": "825 Washington St\\nSte 330",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94607"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "34": {
+    "name": "Dana Cohen Real Estate",
+    "phone": "(510) 813-0321",
+    "zip_code": "94611",
+    "address": {
+      "streetAddress": "1960 Mountain Blvd\\nThe Grubb Co",
+      "addressLocality": "Oakland",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94611"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "35": {
+    "name": "Alameda Family Services League Holiday Home Tour",
+    "phone": "(510) 629-6208",
+    "zip_code": "94501",
+    "address": {
+      "streetAddress": "2325 Clement Ave",
+      "addressLocality": "Alameda",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94501"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "36": {
+    "name": "Team Silva BJJ",
+    "phone": "(510) 263-8700",
+    "zip_code": "94501",
+    "address": {
+      "streetAddress": "2333 Clement Ave",
+      "addressLocality": "Alameda",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94501"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "37": {
+    "name": "Downtown Alameda Spring Festival",
+    "phone": "(510) 523-1392",
+    "zip_code": "94501",
+    "address": {
+      "streetAddress": "Park St",
+      "addressLocality": "Alameda",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94501"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "38": {
+    "name": "Assistance League of Santa Clara County",
+    "phone": "(650) 941-2610",
+    "zip_code": "94022",
+    "address": {
+      "streetAddress": "4085 El Camino Way",
+      "addressLocality": "Palo Alto",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94306"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "39": {
+    "name": "Roadster",
+    "phone": "(415) 329-5050",
+    "zip_code": "94306",
+    "address": {
+      "streetAddress": "2801 Middlefield Rd",
+      "addressLocality": "Redwood City",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94063"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "40": {
+    "name": "Advanced Autowerks",
+    "phone": "(415) 648-1611",
+    "zip_code": "94110",
+    "address": {
+      "streetAddress": "1358 Valencia St",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94110"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "41": {
+    "name": "Linden Room",
+    "phone": "(415) 829-7565",
+    "zip_code": "94102",
+    "address": {
+      "streetAddress": "330 Gough St",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94102"
+    },
+    "free_wifi": false,
+    "alcohol": true
+  },
+  "42": {
+    "name": "Love Your Face",
+    "phone": "(415) 529-2368",
+    "zip_code": "94133",
+    "address": {
+      "streetAddress": "1075 Pacific Ave\\nSte A",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94133"
+    },
+    "free_wifi": false,
+    "alcohol": null
+  },
+  "43": {
+    "name": "Bistro Maxine",
+    "phone": "(650) 323-1815",
+    "zip_code": "94301",
+    "address": {
+      "streetAddress": "548 Ramona St",
+      "addressLocality": "Palo Alto",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94301"
+    },
+    "free_wifi": false,
+    "alcohol": null
+  },
+  "44": {
+    "name": "Cafe Franco",
+    "phone": "(415) 771-2268",
+    "zip_code": "94123",
+    "address": {
+      "streetAddress": "24 W Portal Ave",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94127"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "45": {
+    "name": "Foggy Daze Delivery Service",
+    "phone": "(415) 200-7451",
+    "zip_code": "94114",
+    "address": {
+      "streetAddress": "",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94114"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "46": {
+    "name": "Nohr's Auto Brokers",
+    "phone": "(925) 939-9590",
+    "zip_code": "94596",
+    "address": {
+      "streetAddress": "1332 Pine St",
+      "addressLocality": "Walnut Creek",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94596"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "47": {
+    "name": "Scion - Toyota Palo Alto",
+    "phone": "(650) 494-2303",
+    "zip_code": "94303",
+    "address": {
+      "streetAddress": "690 San Antonio Rd",
+      "addressLocality": "Palo Alto",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94306"
+    },
+    "free_wifi": true,
+    "alcohol": null
+  },
+  "48": {
+    "name": "Smart Center San Francisco",
+    "phone": "(415) 553-4280",
+    "zip_code": "94103",
+    "address": {
+      "streetAddress": "500 8th St\\nFl 2",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94103"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "49": {
+    "name": "Boyarsky Harvey, DMD",
+    "phone": "(650) 327-3172",
+    "zip_code": "94301"
+  },
+  "50": {
+    "name": "Allen L Hasse, DDS",
+    "phone": "(415) 398-4400",
+    "zip_code": "94111",
+    "address": {
+      "streetAddress": "2 Embarcadero Ctr",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94111"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "51": {
+    "name": "Kaiser Permanente Laboratory",
+    "phone": "(650) 903-2750",
+    "zip_code": "94041",
+    "address": {
+      "streetAddress": "555 Castro St\\nFl 1",
+      "addressLocality": "Mountain View",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94041"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "52": {
+    "name": "Life Line Screening",
+    "phone": "(866) 895-3361",
+    "zip_code": "94105",
+    "address": {
+      "streetAddress": "",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94105"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "53": {
+    "name": "City College of San Francisco",
+    "phone": "(415) 239-3000",
+    "zip_code": "94112",
+    "address": {
+      "streetAddress": "50 Frida Kahlo Way",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94112"
+    },
+    "free_wifi": null,
+    "alcohol": null
+  },
+  "54": {
+    "name": "Simply Perfect Weddings & Events",
+    "phone": "(408) 462-0898",
+    "zip_code": "94086"
+  },
+  "55": {
+    "name": "Maurice Ramirez Photo",
+    "phone": "(415) 251-3591",
+    "zip_code": "94501"
+  },
+  "56": {
+    "name": "European Cobblery",
+    "phone": "(650) 941-0143",
+    "zip_code": "94022"
+  },
+  "57": {
+    "name": "JAKE",
+    "phone": "(415) 527-7611",
+    "zip_code": "94111"
+  },
+  "58": {
+    "name": "Stone Meadow Benefits & Insurance Associates",
+    "phone": "(650) 419-2403",
+    "zip_code": "94061"
+  },
+  "59": {
+    "name": "Gillingham CPA",
+    "phone": "",
+    "zip_code": "94104"
+  },
+  "60": {
+    "name": "VOLT with Krae",
+    "phone": "(909) 254-3423",
+    "zip_code": "94601"
+  },
+  "61": {
+    "name": "Jared The Galleria of Jewelry",
+    "phone": "(650) 917-9378",
+    "zip_code": "94040"
+  },
+  "62": {
+    "name": "Macarons A Go-Go",
+    "phone": "",
+    "zip_code": "94306"
+  },
+  "63": {
+    "name": "SF Garden Supply",
+    "phone": "(415) 529-2397",
+    "zip_code": "94107"
+  },
+  "64": {
+    "name": "Little Vine",
+    "phone": "(415) 738-2221",
+    "zip_code": "94133"
+  },
+  "65": {
+    "name": "Max Fitness Crossfit",
+    "phone": "(415) 860-3823",
+    "zip_code": "94110"
+  },
+  "66": {
+    "name": "Wednesdae",
+    "phone": "",
+    "zip_code": "94109"
+  },
+  "67": {
+    "name": "Bruce Bauer Lumber & Supply",
+    "phone": "(650) 948-1089",
+    "zip_code": "94040"
+  },
+  "68": {
+    "name": "James Yang - Sereno Group",
+    "phone": "(650) 796-2059",
+    "zip_code": "94301"
+  },
+  "69": {
+    "name": "Residence Inn Palo Alto Mountain View",
+    "phone": "(650) 940-1300",
+    "zip_code": "94040"
+  },
+  "70": {
+    "name": "China Visa Service Center",
+    "phone": "(415) 292-5188",
+    "zip_code": "94115"
+  },
+  "71": {
+    "name": "800 We Fix Macs",
+    "phone": "(650) 813-6161",
+    "zip_code": "94306"
+  },
+  "72": {
+    "name": "JC Tree Care & Landscape",
+    "phone": "(650) 995-7254",
+    "zip_code": "94063"
+  },
+  "73": {
+    "name": "Roy's Cleaners",
+    "phone": "(650) 353-2455",
+    "zip_code": "94306"
+  },
+  "74": {
+    "name": "Marsh Manor Cleaners",
+    "phone": "(650) 367-1849",
+    "zip_code": "94063"
+  },
+  "75": {
+    "name": "Ziff & Cohn",
+    "phone": "(650) 329-0851",
+    "zip_code": "94022"
+  },
+  "76": {
+    "name": "Pierce & Shearer LLP",
+    "phone": "(650) 843-1900",
+    "zip_code": "94061"
+  },
+  "77": {
+    "name": "Richard S Kolomejec",
+    "phone": "(415) 433-7205",
+    "zip_code": "94111"
+  },
+  "78": {
+    "name": "Mary M. Leichliter - Resolve",
+    "phone": "(415) 572-6473",
+    "zip_code": "94102"
+  },
+  "79": {
+    "name": "The Latino History Project",
+    "phone": "(510) 238-3820",
+    "zip_code": "94607"
+  },
+  "80": {
+    "name": "Martin de Porres House of Hospitality",
+    "phone": "(415) 552-0240",
+    "zip_code": "94103"
+  },
+  "81": {
+    "name": "Yelp",
+    "phone": "(415) 908-3801",
+    "zip_code": "94105"
+  },
+  "82": {
+    "name": "UCSF Center For Reproductive Health",
+    "phone": "(415) 353-7475",
+    "zip_code": "94115"
+  },
+  "83": {
+    "name": "Whatever Store",
+    "phone": "(415) 861-9428",
+    "zip_code": "94114"
+  },
+  "84": {
+    "name": "Alberto's Night Club",
+    "phone": "(650) 968-3007",
+    "zip_code": "94041"
+  },
+  "85": {
+    "name": "St Anthony Foundation",
+    "phone": "(415) 241-2600",
+    "zip_code": "94102"
+  },
+  "86": {
+    "name": "Pet Food Express",
+    "phone": "(415) 431-4567",
+    "zip_code": "94103"
+  },
+  "87": {
+    "name": "William Sellman, MD",
+    "phone": "(510) 521-2300",
+    "zip_code": "94501"
+  },
+  "88": {
+    "name": "Bankruptcy Center of John D Raymond",
+    "phone": "(415) 351-2265",
+    "zip_code": "94109"
+  },
+  "89": {
+    "name": "Angel island Immigration Station Foundation",
+    "phone": "(415) 262-4429",
+    "zip_code": "94133"
+  },
+  "90": {
+    "name": "Jeff Salgado - Paragon Real Estate Group",
+    "phone": "(415) 915-9916",
+    "zip_code": "94103"
+  },
+  "91": {
+    "name": "Hartford Street Zen Center",
+    "phone": "(415) 863-2507",
+    "zip_code": "94114"
+  },
+  "92": {
+    "name": "Lao Table",
+    "phone": "(415) 278-9991",
+    "zip_code": "94105",
+    "address": {
+      "streetAddress": "149 2nd St",
+      "addressLocality": "San Francisco",
+      "addressCountry": "US",
+      "addressRegion": "CA",
+      "postalCode": "94105"
+    },
+    "free_wifi": true,
+    "alcohol": true
+  },
+  "93": {
+    "name": "Home Cooking San Francisco",
+    "phone": "(415) 300-6961",
+    "zip_code": "94110"
+  },
+  "94": {
+    "name": "Caltrain Station - Menlo Park",
+    "phone": "",
+    "zip_code": "94025"
+  },
+  "95": {
+    "name": "BTS Translation Services",
+    "phone": "(415) 668-1121",
+    "zip_code": "94121"
+  },
+  "96": {
+    "name": "VIN12",
+    "phone": "(415) 756-6542",
+    "zip_code": "94105"
+  },
+  "97": {
+    "name": "Kokio Republic",
+    "phone": "",
+    "zip_code": "94103"
+  }
+}
