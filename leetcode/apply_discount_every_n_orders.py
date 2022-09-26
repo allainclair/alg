@@ -1,3 +1,6 @@
+"""https://leetcode.com/problems/apply-discount-every-n-orders/"""
+
+
 class Cashier:
     def __init__(self, n, discount, products, prices):
         self.n = n
@@ -8,7 +11,7 @@ class Cashier:
         self._i = 0
 
     def getbill(self, product, amount):
-        if self._i < self.n:
+        if self._i <= self.n:
             discount = False
             self._i += 1
         else:
@@ -17,7 +20,8 @@ class Cashier:
 
         bill = 0
         for product_id, n in zip(product, amount):
-            price = self.prices[product_id]
+            product_index = self.products.index(product_id)
+            price = self.prices[product_index]
             if discount:
                 price -= self.discount*price / 100
             bill += price*n
