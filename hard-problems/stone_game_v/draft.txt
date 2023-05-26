@@ -1,6 +1,0 @@
-["DinnerPlates","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","popAtStack","popAtStack","popAtStack","popAtStack","popAtStack","popAtStack","popAtStack","popAtStack","popAtStack","popAtStack","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","push","pop","pop","pop","pop","pop","pop","pop","pop","pop","pop"]
-[[2],[373],[86],[395],[306],[370],[94],[41],[17],[387],[403],[66],[82],[27],[335],[252],[6],[269],[231],[35],[346],[4],[6],[2],[5],[2],[2],[7],[9],[8],[1],[474],[216],[256],[196],[332],[43],[75],[22],[273],[101],[11],[403],[33],[365],[338],[331],[134],[1],[250],[19],[],[],[],[],[],[],[],[],[],[]]
-
-
-[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,403,335,94,82,370,17,231,-1,346,306,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,19,250,1,134,331,338,365,33,403,11]
-[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,403,335,94,82,370,-1,6,346,231,306,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,19,250,1,134,331,338,365,33,403,11]
